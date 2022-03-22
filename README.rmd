@@ -1,0 +1,9 @@
+---
+title: "README.rmd"
+author: "Damian Bourne"
+date: "21/03/2022"
+output: html_document
+---
+Github username: damianbourne
+
+![](BIOL812_Flowchart.png)
